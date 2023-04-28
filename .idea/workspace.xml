@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4eec60-dc75-4290-a8d6-bb0bd188d70a" name="Changes" comment="added print 3x">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="4f4eec60-dc75-4290-a8d6-bb0bd188d70a" name="Changes" comment="prints from 1 to 10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +65,79 @@
       <option name="project" value="LOCAL" />
       <updated>1682151123535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added another print (4x)">
+      <created>1682151237367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682151237367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added another print (4x)">
+      <created>1682151268136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682151268136</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added another print (4x)">
+      <created>1682151277568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682151277568</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added another print (5x)">
+      <created>1682151334186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682151334186</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed 2 prints">
+      <created>1682152314665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682152314665</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed 2 prints">
+      <created>1682152359686</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682152359686</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed 2 prints">
+      <created>1682152399400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682152399400</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed some prints">
+      <created>1682152421728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682152421728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="prints from 1 to 10">
+      <created>1682152537541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682152537541</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added print 3x" />
-    <option name="LAST_COMMIT_MESSAGE" value="added print 3x" />
+    <MESSAGE value="added another print (4x)" />
+    <MESSAGE value="added another print (5x)" />
+    <MESSAGE value="removed 2 prints" />
+    <MESSAGE value="removed some prints" />
+    <MESSAGE value="prints from 1 to 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="prints from 1 to 10" />
   </component>
 </project>
