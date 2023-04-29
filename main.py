@@ -5,17 +5,11 @@ class Student:
         self.age = age
         self.grades = grades
     def info(self):
-        print(f"Student: {self.name} {self.surname}, {self.age} років.Його оцінки: {self.grades}")
-    def message(self,text):
-        print(f"Вітаю {self.name}.{text}")
-    def avarage(self):
         self.grades = sum(self.grades) / len(self.grades)
-        print(f"{self.name} має оцінки {self.grades}")
+        print(f"Student: {self.name} {self.surname}, {self.age} років.Його оцінки: {self.grades}")
 
 s1 = Student("Oleg","Havron", 28,[12,9,10,3,7])
 # print(s1.name,s1.surname, s1.age)
 s2 = Student("Oleksandr","Chernysh",90,[10,3,1,8,12])
-s1.avarage()
-s2.avarage()
-# s1.info()
-# s2.info()
+s1.info()
+s2.info()
